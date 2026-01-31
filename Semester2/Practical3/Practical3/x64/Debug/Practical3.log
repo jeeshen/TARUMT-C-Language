@@ -1,0 +1,6 @@
+﻿  P3Q3.c
+C:\Users\htbac\OneDrive\Desktop\C2\Practical3\Practical3\P3Q3.c(28,14): warning C4013: 'tolower' undefined; assuming extern returning int
+C:\Users\htbac\OneDrive\Desktop\C2\Practical3\Practical3\P3Q3.c(28,8): warning C4477: 'scanf' : format string '%c' requires an argument of type 'char *', but variadic argument 1 has type 'int'
+C:\Users\htbac\OneDrive\Desktop\C2\Practical3\Practical3\P3Q3.c(32,3): warning C4013: 'gets' undefined; assuming extern returning int
+C:\Users\htbac\OneDrive\Desktop\C2\Practical3\Practical3\P3Q3.c(41,9): warning C4477: 'scanf' : format string '%c' requires an argument of type 'char *', but variadic argument 1 has type 'int'
+  Practical3.vcxproj -> C:\Users\htbac\OneDrive\Desktop\C2\Practical3\x64\Debug\Practical3.exe

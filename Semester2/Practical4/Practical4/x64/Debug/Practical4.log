@@ -1,0 +1,3 @@
+﻿  P4Q6.c
+C:\Users\htbac\OneDrive\Desktop\C2\Practical4\Practical4\P4Q6.c(21,7): warning C4013: 'strcmp' undefined; assuming extern returning int
+  Practical4.vcxproj -> C:\Users\htbac\OneDrive\Desktop\C2\Practical4\x64\Debug\Practical4.exe

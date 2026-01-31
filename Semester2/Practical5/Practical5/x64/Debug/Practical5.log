@@ -1,0 +1,6 @@
+﻿  P5Q1.c
+  P5Q2.c
+C:\Users\htbac\OneDrive\Desktop\C2\Practical5\Practical5\P5Q2.c(84,10): warning C4101: 'tempProd': unreferenced local variable
+C:\Users\htbac\OneDrive\Desktop\C2\Practical5\Practical5\P5Q2.c(167,9): warning C4101: 'j': unreferenced local variable
+  Generating Code...
+  Practical5.vcxproj -> C:\Users\htbac\OneDrive\Desktop\C2\Practical5\x64\Debug\Practical5.exe

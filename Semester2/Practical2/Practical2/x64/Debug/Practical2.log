@@ -1,0 +1,3 @@
+﻿  P2Q2.c
+C:\Users\htbac\OneDrive\Desktop\C2\Practical2\Practical2\P2Q2.c(90,7): warning C4013: 'strcmp' undefined; assuming extern returning int
+  Practical2.vcxproj -> C:\Users\htbac\OneDrive\Desktop\C2\Practical2\x64\Debug\Practical2.exe

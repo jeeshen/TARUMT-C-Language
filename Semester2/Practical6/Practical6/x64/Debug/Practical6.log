@@ -1,0 +1,3 @@
+﻿  1.c
+C:\Users\htbac\OneDrive\Desktop\C2\Practical6\Practical6\1.c(17,2): warning C4013: 'system' undefined; assuming extern returning int
+  Practical6.vcxproj -> C:\Users\htbac\OneDrive\Desktop\C2\Practical6\x64\Debug\Practical6.exe

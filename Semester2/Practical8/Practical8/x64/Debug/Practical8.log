@@ -1,0 +1,5 @@
+﻿  P8Q7.c
+  P8Q7b.c
+C:\Users\htbac\OneDrive\Desktop\C2\Practical8\Practical8\P8Q7b.c(36,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Practical8.vcxproj -> C:\Users\htbac\OneDrive\Desktop\C2\Practical8\x64\Debug\Practical8.exe

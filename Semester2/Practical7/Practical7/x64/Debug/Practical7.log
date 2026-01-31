@@ -1,0 +1,5 @@
+﻿  test.c
+C:\Users\htbac\OneDrive\Desktop\C2\Practical7\Practical7\test.c(71,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\htbac\OneDrive\Desktop\C2\Practical7\Practical7\test.c(87,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\htbac\OneDrive\Desktop\C2\Practical7\Practical7\test.c(106,10): warning C4101: 'gender': unreferenced local variable
+  Practical7.vcxproj -> C:\Users\htbac\OneDrive\Desktop\C2\Practical7\x64\Debug\Practical7.exe
