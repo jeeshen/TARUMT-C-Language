@@ -1,0 +1,14 @@
+﻿  P3Q6.c
+C:\Users\GIGABYTE\Desktop\C\Practical3\P3Q6.c(13,9): warning C4473: 'printf' : not enough arguments passed for format string
+C:\Users\GIGABYTE\Desktop\C\Practical3\P3Q6.c(13,9): message : placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+C:\Users\GIGABYTE\Desktop\C\Practical3\P3Q6.c(13,9): message : the missing variadic argument 1 is required by format string '%d'
+C:\Users\GIGABYTE\Desktop\C\Practical3\P3Q6.c(14,9): warning C4473: 'printf' : not enough arguments passed for format string
+C:\Users\GIGABYTE\Desktop\C\Practical3\P3Q6.c(14,9): message : placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+C:\Users\GIGABYTE\Desktop\C\Practical3\P3Q6.c(14,9): message : the missing variadic argument 1 is required by format string '%o'
+C:\Users\GIGABYTE\Desktop\C\Practical3\P3Q6.c(15,9): warning C4473: 'printf' : not enough arguments passed for format string
+C:\Users\GIGABYTE\Desktop\C\Practical3\P3Q6.c(15,9): message : placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+C:\Users\GIGABYTE\Desktop\C\Practical3\P3Q6.c(15,9): message : the missing variadic argument 1 is required by format string '%x'
+C:\Users\GIGABYTE\Desktop\C\Practical3\P3Q6.c(16,9): warning C4473: 'printf' : not enough arguments passed for format string
+C:\Users\GIGABYTE\Desktop\C\Practical3\P3Q6.c(16,9): message : placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+C:\Users\GIGABYTE\Desktop\C\Practical3\P3Q6.c(16,9): message : the missing variadic argument 1 is required by format string '%X'
+  Practical3.vcxproj -> C:\Users\GIGABYTE\Desktop\C\Practical3\Debug\Practical3.exe

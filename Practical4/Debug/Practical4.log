@@ -1,0 +1,8 @@
+﻿  P4Q5.c
+C:\Users\GIGABYTE\Desktop\C\Practical4\P4Q5.c(27,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\GIGABYTE\Desktop\C\Practical4\P4Q5.c(28,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\GIGABYTE\Desktop\C\Practical4\P4Q5.c(29,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\GIGABYTE\Desktop\C\Practical4\P4Q5.c(30,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\GIGABYTE\Desktop\C\Practical4\P4Q5.c(31,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\GIGABYTE\Desktop\C\Practical4\P4Q5.c(33,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Practical4.vcxproj -> C:\Users\GIGABYTE\Desktop\C\Practical4\Debug\Practical4.exe
